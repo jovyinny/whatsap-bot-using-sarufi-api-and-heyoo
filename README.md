@@ -1,6 +1,6 @@
 # Whatsapp bot using sarufi api and heyoo
 
-This repo is to walk you through, setting up sarufi with whatsapp.
+This repo is to walk you through deploying your [sarufi](https://playground.sarufi.io/) bot to wahtsapp using [replit](https://replit.com/) as the webhook.
 
 ## The way to go
 
