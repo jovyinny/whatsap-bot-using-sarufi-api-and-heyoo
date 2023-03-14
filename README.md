@@ -19,16 +19,13 @@ Navigate to *Getting started* to get whatsApp cloud `token` and `phone number ID
 ![How to get whatsapp token and phone number ID](./img/get_whatsapp_token.png)
 
 Create
-
-  `phone_number_id`--> to store whatsapp cloud phone ID
-  
-  `whatsapp_token` --> Your whatsapp token
-  
-  `username` --> Your sarufi username
-  
-  `password`--> sarufi password
-  
-  `bot_id`--> Your sarufi bot id
+  | secret key        | Description   |
+  |:---               | :---          |
+  |`phone_number_id`  | to store whatsapp cloud phone ID|
+  |`whatsapp_token`   | Your whatsapp token|
+  |`username`         | Your sarufi username|
+  |`password`         | sarufi password|
+  |`bot_id`           | Your sarufi bot id|
 
 After creating the secret keys, run your `main.py`. A small `webview window` will open up with a url that looks like `https://{your repl name}.{your replit usermae}.repl.co`.
 
